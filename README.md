@@ -30,3 +30,7 @@ Este é o meu projeto para o desafio de codificação do componente de código Q
 
 - Family: [Outfit](https://fonts.google.com/specimen/Outfit)
 - Weights: 400, 700
+
+### Links
+
+- Solution URL: [QR Code](https://bruunogoncalves.github.io/qr-code-component-main/)
